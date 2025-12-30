@@ -23,8 +23,8 @@ I'm an electronics engineering student with hands-on experience designing embedd
 <p align="center">
   <b>ECE Student • Embedded Systems • Project Builder</b>
 </p>
-
-  <img width="3000" height="3000" alt="—Pngtree—cartoon character display_23392316 (1)" src="https://github.com/user-attachments/assets/538d5668-0026-4852-b4ba-f67dbcf24025" />Core strengths:
+  <img width="3000" height="3000" alt="—Pngtree—cartoon character display_23392316 (1)" src="https://github.com/user-attachments/assets/538d5668-0026-4852-b4ba-f67dbcf24025" />
+Core strengths:
 - Embedded development with Raspberry Pi Pico / ESP series
 - GSM/SMS modules (SIM800L) and low-power comms
 - Sensor interfacing, keypad/UI and actuator control
