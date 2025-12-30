@@ -23,7 +23,7 @@ I'm an electronics engineering student with hands-on experience designing embedd
 <p align="center">
   <b>ECE Student • Embedded Systems • Project Builder</b>
 </p>
-  <img width="3000" height="3000" alt="—Pngtree—cartoon character display_23392316 (1)" src="https://github.com/user-attachments/assets/538d5668-0026-4852-b4ba-f67dbcf24025" />
+
   <img width="2500" height="2500" alt="—Pngtree—3d boy sitting on bench_16767707" src="https://github.com/user-attachments/assets/3b8c2c3c-b4e8-4cd3-8451-1d8cd4b48e52" />
 
 
