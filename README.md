@@ -10,6 +10,13 @@
 
 ## About me
 I'm an electronics engineering student with hands-on experience designing embedded systems and IoT prototypes. I enjoy building practical projects that combine microcontrollers, communication modules, and sensors. I also compete in hardware/software debugging and enjoy teaching basics (e.g., 3D printing) to younger students.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" />
+</p>
+
+<p align="center">
+  <b>ECE Student • Embedded Systems • Project Builder</b>
+</p>
 
 Core strengths:
 - Embedded development with Raspberry Pi Pico / ESP series
