@@ -1,7 +1,7 @@
 # Abraham Joseph 👋
 
 > Electronics enthusiast · Embedded systems tinkerer · Competitive problem-solver  
-> S5 EC (Electronics Dept) — passionate about low-level hardware, IoT, and real-world prototypes.
+> S6 EC (Electronics Dept) — passionate about low-level hardware, IoT, and real-world prototypes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abraham--joseph-blue?logo=linkedin)](https://www.linkedin.com/in/abraham-joseph-370186291/)
 [![Email](https://img.shields.io/badge/Email-abrahamjosephxd@gmail.com-orange?logo=gmail)]
