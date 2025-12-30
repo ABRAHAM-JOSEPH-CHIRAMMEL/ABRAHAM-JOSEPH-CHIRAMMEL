@@ -1,5 +1,5 @@
 # Abraham Joseph 👋<p align="center">
-  <img width="3000" height="3000" alt="—Pngtree—cartoon character display_23392316 (1)" src="https://github.com/user-attachments/assets/538d5668-0026-4852-b4ba-f67dbcf24025" />" width="200">
+  <img width="3000" height="3000" alt="—Pngtree—cartoon character display_23392316 (1)" src="https://github.com/user-attachments/assets/538d5668-0026-4852-b4ba-f67dbcf24025" />
 </p>
 
 <p align="center">
