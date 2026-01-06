@@ -22,7 +22,9 @@
 
 ## About me
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello)
-img src="https://raw.githubusercontent.com/akashrajkn/akashrajkn/master/assets/coding.gif" width="140"/>
+
+<img src="https://raw.githubusercontent.com/akashrajkn/akashrajkn/master/assets/coding.gif" width="140"/>
+
 
 I'm an electronics engineering student with hands-on experience designing embedded systems and IoT prototypes. I enjoy building practical projects that combine microcontrollers, communication modules, and sensors. I also compete in hardware/software debugging and enjoy teaching basics (e.g., 3D printing) to younger students.
 <p align="center">
