@@ -20,7 +20,7 @@
 
 
 ---
-<img src="https://skillicons.dev/icons?i=arduino,TIVA,raspberrypi,c,cpp,python,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,autocad,raspberrypi,c,cpp,python,linux&theme=dark" />
 
 
 ## About me
