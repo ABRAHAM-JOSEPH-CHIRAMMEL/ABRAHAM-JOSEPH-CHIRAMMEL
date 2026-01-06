@@ -2,9 +2,8 @@
 <p align="center">
   
 
-
 </p>
-<img src="https://raw.githubusercontent.com/souravsingh009/souravsingh009/master/assets/coder.gif" width="120">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
 
 
