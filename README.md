@@ -3,13 +3,13 @@
   
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
 
 
 <p align="center">
   <b>ECE Student • Embedded Systems • Project Builder</b>
 </p>
+<img src="https://raw.githubusercontent.com/akashrajkn/akashrajkn/master/assets/coding.gif" width="140"/>
 
 
 > Electronics enthusiast · Embedded systems tinkerer · Competitive problem-solver  
