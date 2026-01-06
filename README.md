@@ -20,7 +20,7 @@
 
 
 ---
-<img src="https://skillicons.dev/icons?i=arduino,autocad,raspberrypi,c,cpp,python,linux&theme=dark,github,AWS,ARM cortex" />
+<img src="https://skillicons.dev/icons?i=arduino,autocad,raspberrypi,c,cpp,python,linux&theme=dark" />
 
 
 ## About me
