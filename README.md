@@ -22,7 +22,6 @@
 
 ## About me
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello)
-
 <img src="https://raw.githubusercontent.com/akashrajkn/akashrajkn/master/assets/coding.gif" width="140"/>
 
 
