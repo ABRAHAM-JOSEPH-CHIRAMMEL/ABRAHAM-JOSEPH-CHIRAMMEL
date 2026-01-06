@@ -17,10 +17,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abraham--joseph-blue?logo=linkedin)](https://www.linkedin.com/in/abraham-joseph-370186291/)
 [![Email](https://img.shields.io/badge/Email-abrahamjosephxd@gmail.com-orange?logo=gmail)]
-<img src="https://img.shields.io/badge/TI-TIVA%20C%20Series-red?style=for-the-badge&logo=texasinstruments&logoColor=white"/>
+
 
 ---
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,TIVA,raspberrypi,c,cpp,python,linux&theme=dark" />
 
 
 ## About me
