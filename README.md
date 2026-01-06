@@ -1,6 +1,6 @@
-# Abraham Joseph 👋<p align="center">
+# Abraham Joseph <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<p align="center">
 </p>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
 <p align="center">
