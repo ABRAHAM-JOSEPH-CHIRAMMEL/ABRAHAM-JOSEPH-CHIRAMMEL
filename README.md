@@ -24,7 +24,6 @@ I'm an electronics engineering student with hands-on experience designing embedd
   <b>ECE Student • Embedded Systems • Project Builder</b>
 </p>
 
-  <img width="2500" height="2500" alt="—Pngtree—3d boy sitting on bench_16767707" src="https://github.com/user-attachments/assets/3b8c2c3c-b4e8-4cd3-8451-1d8cd4b48e52" />
 
 
 Core strengths:
