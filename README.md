@@ -17,7 +17,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abraham--joseph-blue?logo=linkedin)](https://www.linkedin.com/in/abraham-joseph-370186291/)
 [![Email](https://img.shields.io/badge/Email-abrahamjosephxd@gmail.com-orange?logo=gmail)]
-[![Medium](https://medium.com/@abrahamjosephxd)]
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abrahammjosephxd)
+
 
 ---
 <img src="https://skillicons.dev/icons?i=arduino,autocad,raspberrypi,c,cpp,python,linux&theme=dark" />
